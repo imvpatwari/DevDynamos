@@ -52,4 +52,4 @@ jobs:
           app-name: 'rgcoderd85e0dbapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_222CC6696A6640199692A990E0127649 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E91E4BC2C2F947909696473358C11007 }}
